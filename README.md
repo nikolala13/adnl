@@ -18,7 +18,7 @@ Implementation of Abstract Datagram Network Layer (ADNL) Protocol in safe Rust. 
 
 ### Prerequisites
 
-Rust complier v1.65+.
+Rust compiler v1.65+.
 
 ### Installing
 
