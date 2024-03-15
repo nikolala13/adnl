@@ -13,5 +13,11 @@
 
 mod adnl;
 pub use crate::adnl::*;
+mod dht;
+pub use crate::dht::*;
+mod overlay;
+pub use crate::overlay::*;
+mod rldp;
+pub use crate::rldp::*;
 
 include!("../common/src/info.rs");
